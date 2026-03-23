@@ -1,0 +1,1 @@
+export 'package:sample/others/auth_repository/src/auth_repository.dart';

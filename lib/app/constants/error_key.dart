@@ -1,0 +1,1 @@
+enum ErrorKey { networkUnavailable, jwtTokenNotValid }
