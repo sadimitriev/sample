@@ -22,7 +22,7 @@ class DioClient {
   static Dio _createDio() {
     var dio = Dio(
       BaseOptions(
-        baseUrl: "https://intourist.ru/client/rs-api/v1",
+        baseUrl: "https://sample.ru/client/rs-api/v1",
         sendTimeout: Duration(seconds: 3),
         connectTimeout: Duration(seconds: 3),
         headers: {"Accept": "*/*"},
